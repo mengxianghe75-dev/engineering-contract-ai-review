@@ -1,0 +1,11 @@
+# 测试依赖
+pytest==8.3.5
+httpx==0.28.1
+pytest-asyncio==0.25.3
+
+# 代码质量
+ruff==0.9.9
+mypy==1.15.0
+
+# 开发工具
+python-dotenv==1.1.0
